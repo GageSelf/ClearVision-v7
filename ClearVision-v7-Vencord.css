@@ -25,7 +25,7 @@
   --offline-color: #808080; /* offline/invisible status color (hex, rgb or hsl) [default: #808080] */
   /* APP BACKGROUND */
   --background-shading-percent: 100%; /* app background shading amount (0 for complete smoothness) [default: 100%] */
-  --background-image: url(https://clearvision.github.io/images/sapphire.jpg); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
+  --background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp14738984.jpg&f=1&nofb=1&ipt=70c17ea29fdc10ac9b80c9a4d2330dc02c972dbdb97f06e35098a6d163d8c681); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size (px) [default: cover] */
   --background-attachment: fixed; /* app background attachment [default: fixed] */
